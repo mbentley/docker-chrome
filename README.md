@@ -1,5 +1,7 @@
 # mbentley/chrome
 
+**Warning**: this image is no longer maintained on Docker Hub but the code is left for an example.
+
 docker image for Google Chrome (and other generic tools if you install them)
 based off of debian:bullseye
 
